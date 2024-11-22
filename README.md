@@ -26,8 +26,7 @@ Create a Baseline: The program scans a directory tree and stores a snapshot of e
 Integrity Check: When run again, the program compares the current state of the directory tree to the stored baseline. It identifies changes by comparing file hashes and properties.
 Report Generation: If any changes are detected (file modifications, deletions, or additions), the program flags them and generates a user-friendly report.
 
-[ALT TEXT](image.png)
-
+![ALT TEXT](https://github.com/JenishPatelx/SecureSync/blob/main/image.png)
 
 How to Run-->
 
